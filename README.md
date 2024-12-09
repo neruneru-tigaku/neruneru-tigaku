@@ -14,10 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neruneru-tiagku&repo=highcontrast&theme=default)](https://github.com/neruneru-tigaku/highcontrast)
 
-![Anurag's GitHub stats]
-(https://github-readme-stats.vercel.app/apiusername=neruneru-tigaku&show_icons=true&theme=highcontrast)
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=neruneru-tigaku&theme=highcontrast)](https://github-readme-streak-stats.herokuapp.com/?user=neruneru-tigaku&theme=highcontrast)
 
